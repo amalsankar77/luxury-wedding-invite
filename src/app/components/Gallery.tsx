@@ -11,19 +11,19 @@ export default function Gallery() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 
         <img
-          src="/gallery1.jpg"
+          src="/w2.jpg"
           alt="gallery"
           className="w-full h-[400px] object-cover rounded-2xl"
         />
 
         <img
-          src="/gallery2.jpg"
+          src="/w3.jpg"
           alt="gallery"
           className="w-full h-[400px] object-cover rounded-2xl"
         />
 
         <img
-          src="/gallery3.jpg"
+          src="/w4.jpg"
           alt="gallery"
           className="w-full h-[400px] object-cover rounded-2xl"
         />
