@@ -21,7 +21,12 @@ export default function Navbar() {
       <a href="#rsvp" className="hover:text-gray-400">
   RSVP
 </a>
-
+    <a href="#events" className="hover:text-gray-400">
+  Events
+</a>
+        <a href="#venue" className="hover:text-gray-400">
+          Venue
+        </a>
     </nav>
   );
 }
